@@ -21,8 +21,7 @@ Inputs and outputs should be valid JavaScript values!
 
 | Input | Output |
 | ----- | ------ |
-|   const james = {name: James, dogs: [{name: Lily, breed: Austrlian Shepherd, gender: female}]
-function (james, "Lily")|        | 
+|   `const james = {name: James, dogs: [{name: Lily, breed: Austrlian Shepherd, gender: female}] function (james, "Lily")`| `{name: Lily, breed: Austrlian Shepherd, gender: female}`       | 
 |       |        | 
 |       |        | 
 
