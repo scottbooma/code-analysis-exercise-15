@@ -28,7 +28,7 @@ Inputs and outputs should be valid JavaScript values!
 <table>
   <tr>
     <th>What does this program do?</th>
-    <td></td>
+    <td>This program takes an object with one of its properties being an array labeled "dogs" whose items are objects containing information for each dog. It searches the array to see if the name of a dog matches the `petName` input. If it is a match it will return the entire object for the dog that was a match. This works like a `.find` might to search through an array.</td>
   </tr>
 </table>
 
